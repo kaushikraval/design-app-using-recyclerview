@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TRENDING</string>
+    <string name="today_s_birthday">Today\'s Birthday</string>
+    <string name="harsh_dedhia">Harsh Dedhia</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="upcoming_birthday_s">Upcoming Birthday\'s</string>
+    <string name="todo6">TODO</string>
+    <string name="paresh_shahh">Paresh shah</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="paresh_shah">Paresh shah</string>
+    <string name="todo9">TODO</string>
+    <string name="recent_birthday">Recent Birthday</string>
+    <string name="what_s_spacial_occasion">What\'s Spacial Occasion?</string>
+    <string name="todo">TODO</string>
+    <string name="kaushik_raval">kaushik Raval</string>
+</resources>
